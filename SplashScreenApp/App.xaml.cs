@@ -9,8 +9,8 @@ namespace SplashScreenApp
         public App()
         {
             InitializeComponent();
+
             MainPage = new MainPage();
-            //Hi this is nikhil
         }
 
         protected override void OnStart()
